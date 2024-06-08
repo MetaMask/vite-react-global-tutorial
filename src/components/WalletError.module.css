@@ -1,0 +1,8 @@
+.walletError {
+  margin-top: 1em;
+  border-radius: 0.5em;
+  padding: 16px;
+  color: #EFEFEF;
+  background-color: transparent;
+  user-select: none;
+}
